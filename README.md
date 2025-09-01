@@ -1,2 +1,2 @@
 # Tarea
-tarea de progamación Reyes Serrano
+tarea de programación Reyes Serrano
